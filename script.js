@@ -118,7 +118,7 @@ function fillBar(){
         }
     }
 }
-*/
+
 
 
 var progressBars=document.querySelectorAll('.skill-progress>div');
@@ -158,3 +158,4 @@ function checkscroll(){
     }
 };
 window.addEventListener('scroll',checkscroll);
+*/
